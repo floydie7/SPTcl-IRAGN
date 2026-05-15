@@ -9,15 +9,12 @@ SPTcl-IRAGN
 
 Three major pipelines are described here related to
 
-1. `Empirical Catalog Pipeline`_
-2. `Mock Catalog Pipeline`_
-3. `Bayesian Inference Fitting`_
+1. `Empirical Catalog Pipeline <api/selector.html>`_
+2. `Mock Catalog Pipeline <api/mock.html>`_
+3. `Bayesian Inference Fitting <api/fitting.html>`_
 
 These pipelines were described in detail in Benjamin Floyd's PhD dissertation, "Infrared-Bright Active Galactic Nuclei in Massive Galaxy Clusters" available on the `MOspace Disseration Archive`_.
 
-.. _Empirical Catalog Pipeline: api/selector
-.. _Mock Catalog Pipeline: api/mock
-.. _Bayesian Inference Fitting: api/fitting
 .. _MOspace Disseration Archive: https://hdl.handle.net/10355/101862
 
 
